@@ -1,0 +1,16 @@
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\yeah\bin\BNB\Debug\net5.0\yeah.exe
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\yeah\bin\BNB\Debug\net5.0\yeah.deps.json
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\yeah\bin\BNB\Debug\net5.0\yeah.runtimeconfig.json
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\yeah\bin\BNB\Debug\net5.0\yeah.runtimeconfig.dev.json
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\yeah\bin\BNB\Debug\net5.0\yeah.dll
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\yeah\bin\BNB\Debug\net5.0\ref\yeah.dll
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\yeah\bin\BNB\Debug\net5.0\yeah.pdb
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\yeah\obj\BNB\Debug\net5.0\yeah.csprojAssemblyReference.cache
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\yeah\obj\BNB\Debug\net5.0\yeah.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\yeah\obj\BNB\Debug\net5.0\yeah.AssemblyInfoInputs.cache
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\yeah\obj\BNB\Debug\net5.0\yeah.AssemblyInfo.cs
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\yeah\obj\BNB\Debug\net5.0\yeah.csproj.CoreCompileInputs.cache
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\yeah\obj\BNB\Debug\net5.0\yeah.dll
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\yeah\obj\BNB\Debug\net5.0\ref\yeah.dll
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\yeah\obj\BNB\Debug\net5.0\yeah.pdb
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\yeah\obj\BNB\Debug\net5.0\yeah.genruntimeconfig.cache
